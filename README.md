@@ -1,4 +1,6 @@
-### My name is Vedant Panchal
-### Student ID:- 101413574
-### College:- George Brown College (CASALOMA Campus)
-### Address: 678 Bloor Street West
+All our group members have created their own branches and added three files with ten commits from each branch.
+The list of all three group members:-
+Vedant Panchal
+Parth Patel
+Nish Chaudhari
+Suyog Taware

@@ -1,2 +1,4 @@
-My name is Nish Chaudhari
-This is for Group project of COMP2156
+My name is Suyog Taware
+Address- 219 Dundas Street East
+college- George Brown College (Casa Loma Campus)
+

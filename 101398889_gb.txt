@@ -1,5 +1,10 @@
-Location: Situated in Toronto, Ontario, Canada, GBC has multiple campuses across the city, offering convenient access to urban amenities and industry opportunities.
-Programs: GBC provides a diverse range of programs spanning business, health sciences, culinary arts, design, technology, and skilled trades, catering to various career paths and educational interests.
-Industry Connections: With strong ties to industry partners, GBC facilitates internships, co-op placements, and real-world projects, enabling students to gain practical experience and build professional networks.
-Facilities and Resources: Equipped with modern facilities and specialized resources, GBC campuses support hands-on learning experiences in state-of-the-art classrooms, laboratories, and industry-specific facilities.
-Community Engagement: GBC fosters community engagement through outreach programs, volunteer opportunities, and partnerships, empowering students to make meaningful contributions beyond the classroom and develop a well-rounded skill set.
+Location: 
+ Situated in Toronto, Ontario, Canada, GBC has multiple campuses across the city, offering convenient access to urban amenities and industry opportunities.
+Programs:
+ GBC provides a diverse range of programs spanning business, health sciences, culinary arts, design, technology, and skilled trades, catering to various career paths and educational interests.
+Industry Connections:
+ With strong ties to industry partners, GBC facilitates internships, co-op placements, and real-world projects, enabling students to gain practical experience and build professional networks.
+Facilities and Resources:
+ Equipped with modern facilities and specialized resources, GBC campuses support hands-on learning experiences in state-of-the-art classrooms, laboratories, and industry-specific facilities.
+Community Engagement:
+ GBC fosters community engagement through outreach programs, volunteer opportunities, and partnerships, empowering students to make meaningful contributions beyond the classroom and develop a well-rounded skill set.

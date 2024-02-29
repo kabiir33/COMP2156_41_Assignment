@@ -1,1 +1,19 @@
-George Brown College, founded in 1967 in Toronto, Canada, is a leading public institution offering a diverse range of programs in fields such as business, health sciences, culinary arts, technology, and design. With multiple campuses across downtown Toronto, the college provides students with modern facilities and resources, as well as valuable partnerships with industry stakeholders for hands-on learning experiences. Committed to diversity and inclusion, George Brown College fosters a supportive environment for students from all backgrounds, making it a respected institution known for its quality education and industry relevance.
+Course Overview:
+COMP 2156 is a DevOps course offered at George Brown College in Toronto, Canada.
+Designed to equip students with skills and knowledge for implementing DevOps practices in software development and IT operations.
+Topics Covered:
+Continuous integration and continuous delivery (CI/CD).
+Infrastructure as code (IaC).
+Configuration management.
+Monitoring and collaboration tools.
+Cloud computing platforms.
+Containerization technologies such as Docker.
+Automation tools like Jenkins and Ansible.
+Hands-on Learning:
+Students engage in practical exercises and hands-on projects.
+Gain experience in setting up development pipelines.
+Deploying applications and managing infrastructure.
+Improving team collaboration.
+Preparation for Careers:
+Provides students with the skills necessary for DevOps roles in various industries.
+Practical experience prepares students for real-world challenges in software development and IT operations.

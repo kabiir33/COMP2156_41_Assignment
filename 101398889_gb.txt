@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Location: 
  Situated in Toronto, Ontario, Canada, GBC has multiple campuses across the city, offering convenient access to urban amenities and industry opportunities.
 Programs:
@@ -8,3 +9,6 @@ Facilities and Resources:
  Equipped with modern facilities and specialized resources, GBC campuses support hands-on learning experiences in state-of-the-art classrooms, laboratories, and industry-specific facilities.
 Community Engagement:
  GBC fosters community engagement through outreach programs, volunteer opportunities, and partnerships, empowering students to make meaningful contributions beyond the classroom and develop a well-rounded skill set.
+=======
+George Brown College prioritizes strong partnerships with businesses and organizations to ensure its programs meet the demands of the workforce. With cutting-edge facilities and resources, the college empowers students to excel in their learning and growth. Embracing diversity and inclusivity, George Brown College cultivates an environment where all students can thrive.
+>>>>>>> main

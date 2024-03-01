@@ -4,4 +4,4 @@
 ## Parth Patel
 ## Nish Chaudhari
 ## Suyog Taware
-## All our group members have created their own branches and added three files with ten commits from each branch. 
+## All our group members have created their own branches and added three files with ten commits from each branch.

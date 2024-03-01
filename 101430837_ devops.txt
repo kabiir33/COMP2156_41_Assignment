@@ -1,3 +1,0 @@
-this file is for devops
-Students at George Brown College have access to multiple libraries across different campuses, offering a wide range of electronic resources like ebooks and articles.
-DevOps leads to faster software delivery, improved quality, enhanced customer satisfaction, and business innovation

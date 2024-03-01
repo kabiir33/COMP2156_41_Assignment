@@ -1,3 +1,0 @@
-## Reviewers
-
-## Collaborators

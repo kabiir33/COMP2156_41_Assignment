@@ -1,4 +1,6 @@
-Hi This Is Parth
-i am studying (Computer System Technology) in George Brown College
-i will complete my Program in the Summer of 2025
-i am excited in learning new technologies
+# All our group members have created their own branches and added three files with ten commits from each branch.
+## The list of all three group members:-
+## Vedant Panchal
+## Parth Patel
+## Nish Chaudhari
+## Suyog Taware

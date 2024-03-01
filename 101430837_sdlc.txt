@@ -1,1 +1,2 @@
 this is for importance of learning devops engineer in software development cycles
+Becoming a DevOps engineer requires coding proficiency, problem-solving skills, a relevant bachelor's degree (e.g., computer science), and certifications like AWS Certified DevOps Engineer or Docker Certified Associate
